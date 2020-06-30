@@ -20,6 +20,6 @@ homepage = "https://crates.io/crates/RustPrimeNumberLibrary"
 documentation = "https://docs.rs/RustPrimeNumberLibrary/0.1.0/RustPrimeNumberLibrary/"
 readme = "readme.md"
 license = "MIT"
-repository = "https://github.com/RustPrimeNumberLibrary"
+repository = "https://github.com/MuhammadHamzaFarooq/RustPrimeNumberLibrary"
 
 [dependencies]
