@@ -1,0 +1,1 @@
+/home/web-developer/Downloads/RustPrimeNumberLibrary/target/package/RustPrimeNumberLibrary-0.1.0/target/debug/libRustPrimeNumberLibrary.rlib: /home/web-developer/Downloads/RustPrimeNumberLibrary/target/package/RustPrimeNumberLibrary-0.1.0/src/lib.rs
