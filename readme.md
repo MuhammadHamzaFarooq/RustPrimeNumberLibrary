@@ -1,9 +1,9 @@
-# Simple Prime Numer Checker
+# Simple Prime Number Checker
 * You can use this simple Rust prime Number checker libary.
 
 
 # How to use
-* You Can use thi Library in your project with
+* You Can use this Library in your project with
 
 > use RustPrimeNumberLibrary::IS_prime_OR_notPrime;
 
