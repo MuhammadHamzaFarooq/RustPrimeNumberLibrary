@@ -13,4 +13,4 @@
 
 > IS_prime_OR_notPrime(int_num);
 
-// And take one parameter andthis data type is u32
+// And take one parameter and this data type is u32
